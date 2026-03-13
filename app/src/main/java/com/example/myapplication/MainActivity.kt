@@ -51,6 +51,7 @@ fun Screen2(navController: NavHostController) {
 
 }
 
+
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
